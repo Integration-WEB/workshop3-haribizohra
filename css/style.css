@@ -20,6 +20,21 @@ body {
 
 
 /*============= FOOTER =============*/
+i{
+  color:white ;
+  font-size: 2rem;
+  
+}
+i:hover
+{
+  color: red;
+}
+
+ul{
+  list-style-type: none;
+  max-width: 16rem;
+  margin: 0 auto;
+}
 
 
 /*===== FIXED BACKGROUND IMG =====*/
